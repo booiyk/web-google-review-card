@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f9fd"/>
+      <stop offset="1" stop-color="#e8eef8"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b7ef0"/>
+      <stop offset="1" stop-color="#155fc0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1060" cy="90" r="190" fill="#1a73e8" opacity="0.07"/>
+  <circle cx="120" cy="580" r="150" fill="#8b5cf6" opacity="0.06"/>
+
+  <!-- kartu -->
+  <g transform="translate(830 130)">
+    <rect width="300" height="222" rx="24" fill="#1a73e8"/>
+    <rect y="150" width="300" height="72" rx="24" fill="#ffffff"/>
+    <rect y="162" width="300" height="60" fill="#ffffff"/>
+    <rect x="26" y="26" width="248" height="98" rx="16" fill="#ffffff" opacity="0.10"/>
+    <!-- bintang -->
+    <g fill="#ffc53d">
+      <path transform="translate(118 30) scale(0.72)" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/>
+      <path transform="translate(141 30) scale(0.72)" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/>
+      <path transform="translate(164 30) scale(0.72)" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/>
+      <path transform="translate(187 30) scale(0.72)" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/>
+      <path transform="translate(210 30) scale(0.72)" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/>
+    </g>
+    <rect x="60" y="70" width="180" height="10" rx="5" fill="#ffffff" opacity="0.92"/>
+    <rect x="86" y="90" width="128" height="10" rx="5" fill="#ffffff" opacity="0.62"/>
+    <!-- lencana G -->
+    <circle cx="150" cy="150" r="27" fill="#ffffff"/>
+    <g transform="translate(133 133) scale(0.72)">
+      <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
+      <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6C44.45 38.05 46.98 31.91 46.98 24.55z"/>
+      <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
+      <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.91-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.18 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+    </g>
+    <!-- bawah -->
+    <rect x="42" y="182" width="30" height="26" rx="7" fill="#1a73e8" opacity="0.22"/>
+    <rect x="96" y="182" width="30" height="26" rx="7" fill="#1a73e8" opacity="0.22"/>
+    <rect x="150" y="172" width="112" height="1.6" fill="#1a73e8" opacity="0.16"/>
+    <rect x="176" y="182" width="60" height="26" rx="7" fill="#1a73e8" opacity="0.14"/>
+  </g>
+
+  <!-- teks -->
+  <g font-family="Inter, -apple-system, 'Segoe UI', sans-serif" fill="#101828">
+    <rect x="90" y="150" width="270" height="46" rx="23" fill="#1a73e8" opacity="0.11"/>
+    <circle cx="116" cy="173" r="6" fill="#1a73e8"/>
+    <text x="134" y="179" font-size="21" font-weight="700" fill="#1a73e8">NFC &amp; QR siap pasang</text>
+
+    <text x="90" y="268" font-size="62" font-weight="800" letter-spacing="-2">Tingkatkan Rating</text>
+    <text x="90" y="338" font-size="62" font-weight="800" letter-spacing="-2">Google Bisnis Anda</text>
+    <text x="90" y="408" font-size="62" font-weight="800" letter-spacing="-2" fill="#1a73e8">dengan Satu Sentuhan</text>
+
+    <text x="90" y="466" font-size="27" fill="#4b5565">Kartu NFC dan QR premium. Pelanggan tap atau scan,</text>
+    <text x="90" y="502" font-size="27" fill="#4b5565">langsung ke halaman ulasan Google. Tanpa aplikasi.</text>
+
+    <rect x="90" y="546" width="252" height="58" rx="29" fill="url(#blue)"/>
+    <text x="216" y="583" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle">Pesan Sekarang</text>
+  </g>
+</svg>
